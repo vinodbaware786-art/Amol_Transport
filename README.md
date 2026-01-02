@@ -1,17 +1,3 @@
-# Amol_Transport
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amol Transport | Heavy Vehicle Carrier</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; color: #333; }
-        header { background: #004080; color: white; padding: 20px text-align: center; }
-        nav { background: #f4f4f4; padding: 10px; text-align: center; border-bottom: 2px solid #004080; }
-        .hero { background: #222; color: white; padding: 60px 20px; text-align: center; }
-        .container { padding: 20px; max-width: 1000px; margin: auto; }
-        .card { border: 1px solid #ddd; padding: 20px; margin: 10px 0; border-left: 5px solid #004080; background: #fff; }
         .btn { background: #e67e22; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; }
         footer { background: #333; color: white; text-align: center; padding: 20px; margin-top: 40px; }
         h2 { color: #004080; }
